@@ -38,7 +38,7 @@ body {
 }
 
 .full-screen-background-image {
-    background: url("../image/wallpaper.jpg") no-repeat center;
+    background: url("../image/wallpaper.png") no-repeat center;
     background-size: cover;
 }
 
